@@ -5,20 +5,15 @@ I'm a Software Developer passionate about creating innovative solutions and lear
 ## 🚀 About Me
 
 - 🎓 I'm finished studying Software Engineering at The Flatiron School.
-- 🌱 I'm currently learning DSA, Python + Flask.
 - 🔭 I'm looking for a job as a Fullstack/Frontend/Backend programmer or internship/apprenticeship. Also open to other programming postitions.
-- 🎨 My interests includes Traveling, Nutrition, Fitness, Sports, and trying out new food spots.
+- 🎨 My interests includes Traveling, Nutrition, Fitness, Sports, and trying out new food spots. 
+  -  Fun Fact: I'm also a certified registered Dietitian (CDN,RD)!
 - 📫 You can reach me at Daniel.yim96@gmail.com
-<h3 align="left">Fun Fact:</h3>
-<p align="left">
-  I'm also a certified registered Dietitian (CDN,RD)!
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-yim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielyim" height="40" width="40" /></a>
 </p>
-
 
 <h3 align="left">Front End Stack:</h3>
 <p align="left"> 
@@ -55,15 +50,6 @@ I'm a Software Developer passionate about creating innovative solutions and lear
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-</p>
-<h3 align="left">General:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 </p>
 
