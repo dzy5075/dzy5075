@@ -4,7 +4,7 @@ I'm a Software Developer passionate about creating innovative solutions and lear
 
 ## 🚀 About Me
 
-- 🎓 I'm finished studying Software Engineering at The Flatiron School.
+- 🎓 I finished studying Software Engineering at The Flatiron School.
 - 🔭 I'm looking for a job as a Fullstack/Frontend/Backend programmer or internship/apprenticeship. Also open to other programming postitions.
 - 🎨 My interests includes Traveling, Nutrition, Fitness, Sports, and trying out new food spots. 
   -  Fun Fact: I'm also a certified registered Dietitian (CDN,RD)!
