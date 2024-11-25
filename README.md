@@ -5,8 +5,8 @@ I'm a Software Developer passionate about creating innovative solutions and lear
 ## 🚀 About Me
 
 - 🎓 I finished studying Software Engineering at The Flatiron School.
-- 🔭 I'm looking for a job as a Fullstack/Frontend/Backend programmer or internship/apprenticeship. Also open to other programming/ support postitions.
-- 🎨 My interests includes Traveling, Nutrition, Fitness, Sports, and trying out new food spots. 
+- 🔭 I'm seeking a role as a Fullstack/Frontend/Backend programmer, Customer product support, Technical Support, or internship/apprenticeship.
+- 🎨 My interests include New Technology, Traveling, Nutrition, Fitness, Sports, and trying out new food spots. 
   -  Fun Fact: I'm also a certified registered Dietitian (CDN,RD)!
 - 📫 You can reach me at Daniel.yim96@gmail.com
 </p>
